@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="275d102a-7e4a-432a-94f5-6eaa9e53728c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Año2013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodigoBarras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cubifinitos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvaluarExpresion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kaprekar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLenandoPiscinas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lucky_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lychrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumerosAfortunados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parentesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Radares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reversible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cuantasMeLLevo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercitoRomano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/escaleraDeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vampiros.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/rodpermin/IdeaProjects/Ampliacion-" value="3M0130nDnWY8eAdnpMYr14Y9VRr" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="22" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000002" />
+      <entry key="S30" value="1.0000056321892137" />
+      <entry key="S60" value="1.0039233857701726" />
+      <entry key="M2" value="1.1509735712611557" />
+      <entry key="M5" value="3.0786516056173268" />
+      <entry key="M10" value="8.958157310610895" />
+      <entry key="M15" value="15.558946448698574" />
+      <entry key="M30" value="33.11903606068599" />
+      <entry key="H1" value="60.84273768030905" />
+      <entry key="H2" value="95.09293609370212" />
+      <entry key="H4" value="125.11947743087539" />
+      <entry key="D1" value="161.88878849533356" />
+      <entry key="W1" value="169.6564748026172" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="9.417590834596898E-148" />
+      <entry key="S2" value="1.7518017442893487E-37" />
+      <entry key="S5" value="1.9833254362967807E-15" />
+      <entry key="S10" value="4.45345420578002E-8" />
+      <entry key="S30" value="0.0035450404828660923" />
+      <entry key="S60" value="0.060826843477226174" />
+      <entry key="M2" value="0.32387155023669534" />
+      <entry key="M5" value="1.8209547502289132" />
+      <entry key="M10" value="5.113222224853691" />
+      <entry key="M15" value="8.557690224661037" />
+      <entry key="M30" value="19.001745757207026" />
+      <entry key="H1" value="38.51493222420933" />
+      <entry key="H2" value="64.29772511980269" />
+      <entry key="H4" value="87.38295186081632" />
+      <entry key="D1" value="115.90638080505101" />
+      <entry key="W1" value="121.95349509885266" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.9392025008599758E-8" />
+      <entry key="MS500" value="0.031163476604752164" />
+      <entry key="S2" value="0.42015687611664093" />
+      <entry key="S5" value="0.7069107567338705" />
+      <entry key="S10" value="0.8407798901144227" />
+      <entry key="S30" value="0.9472503272315423" />
+      <entry key="S60" value="1.035110400424603" />
+      <entry key="M2" value="1.4571625736603624" />
+      <entry key="M5" value="4.885470817529507" />
+      <entry key="M10" value="14.053987571387777" />
+      <entry key="M15" value="24.096467646578116" />
+      <entry key="M30" value="52.09807119995922" />
+      <entry key="H1" value="99.33609620259261" />
+      <entry key="H2" value="159.37370517001403" />
+      <entry key="H4" value="212.49129339123266" />
+      <entry key="D1" value="277.79277681200705" />
+      <entry key="W1" value="291.6096120129066" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LzyrCAkqOe2YfnCip9JRxO6AyZ" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="true" />
+        <option name="ensembleTierId" value="balance" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="ensemble" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.Año2013.executor": "Run",
+    "Application.Barras.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Cubifinitos.executor": "Run",
+    "Application.EvaluarExpresion.executor": "Run",
+    "Application.Kaprekar.executor": "Run",
+    "Application.LLenandoPiscinas.executor": "Run",
+    "Application.Lucky_Number.executor": "Run",
+    "Application.Lychrel.executor": "Run",
+    "Application.NumerosAfortunados.executor": "Run",
+    "Application.Parentesis.executor": "Run",
+    "Application.Persistencia.executor": "Run",
+    "Application.Radares.executor": "Run",
+    "Application.Reversible.executor": "Run",
+    "Application.cuantasMeLLevo.executor": "Run",
+    "Application.ejercitoRomano.executor": "Run",
+    "Application.escaleraDeColor.executor": "Run",
+    "Application.piscina.executor": "Run",
+    "Application.vampiros.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="275d102a-7e4a-432a-94f5-6eaa9e53728c" name="Changes" comment="" />
+      <created>1794471387608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794471387608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
